@@ -1,0 +1,54 @@
+* {
+    font-family: cursive;
+}
+
+html {
+    font-size: 62.5%;
+}
+
+body {
+    min-height: 100vh;
+    background-color: lightseagreen;
+    background: linear-gradient(lightseagreen, royalblue);
+    background-repeat: no-repeat;
+}
+
+h2 {
+    font-size: 3.5rem;
+}
+
+#song-title {
+    font-size: 4.5rem;
+    text-align: center;
+}
+
+#catcher {
+    font-size: 3.5rem;
+    text-align: center;
+}
+
+.alphabet {
+    width: 75%;
+    margin: auto;
+}
+
+.letter {
+    height: 75vh;
+    border: 3px solid black;
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+img {
+    height: 100%;
+    width: 50%;
+    object-fit: cover;
+}
+
+p {
+    font-size: 3rem;
+}
+
