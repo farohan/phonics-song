@@ -34,7 +34,6 @@ h2 {
 
 .letter {
     height: 75vh;
-    border: 3px solid black;
     padding-top: 2rem;
     padding-bottom: 2rem;
     display: flex;
