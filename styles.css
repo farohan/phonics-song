@@ -8,6 +8,7 @@ html {
 
 body {
     min-height: 100vh;
+    overflow-x: none;
     background-color: lightseagreen;
     background: linear-gradient(lightseagreen, royalblue);
     background-repeat: no-repeat;
